@@ -1,0 +1,12 @@
+/Users/Guest/Desktop/madlibs-csharp-master/bin/Debug/netcoreapp1.1/CarDealership.deps.json
+/Users/Guest/Desktop/madlibs-csharp-master/bin/Debug/netcoreapp1.1/CarDealership.runtimeconfig.json
+/Users/Guest/Desktop/madlibs-csharp-master/bin/Debug/netcoreapp1.1/CarDealership.runtimeconfig.dev.json
+/Users/Guest/Desktop/madlibs-csharp-master/obj/Debug/netcoreapp1.1/CarDealership.AssemblyInfo.cs
+/Users/Guest/Desktop/car-dealership-mvc/bin/Debug/netcoreapp1.1/CarDealership.deps.json
+/Users/Guest/Desktop/car-dealership-mvc/bin/Debug/netcoreapp1.1/CarDealership.runtimeconfig.json
+/Users/Guest/Desktop/car-dealership-mvc/bin/Debug/netcoreapp1.1/CarDealership.runtimeconfig.dev.json
+/Users/Guest/Desktop/car-dealership-mvc/obj/Debug/netcoreapp1.1/CarDealership.AssemblyInfo.cs
+/Users/Guest/Desktop/car-dealership-mvc/bin/Debug/netcoreapp1.1/CarDealership.dll
+/Users/Guest/Desktop/car-dealership-mvc/bin/Debug/netcoreapp1.1/CarDealership.pdb
+/Users/Guest/Desktop/car-dealership-mvc/obj/Debug/netcoreapp1.1/CarDealership.dll
+/Users/Guest/Desktop/car-dealership-mvc/obj/Debug/netcoreapp1.1/CarDealership.pdb

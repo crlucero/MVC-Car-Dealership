@@ -1,0 +1,25 @@
+@using Dealership.Models;
+
+<h1>List of Cars</h1>
+<ul>
+
+@if (Model.Count == 0)
+{
+  <p>You have no cars in your to do list!</p>
+}
+@if(Model.Count != 0)
+{
+  @foreach (Car myCar in Model)
+  {
+    <li>Make: @myCar.GetMake()</li>
+    <li>Model: @myCar.GetModel()</li>
+    <li>Year: @myCar.GetYear()</li>
+    <li>Miles: @myCar.GetMiles()</li>
+    <li>Price: @myCar.GetPrice()</li>
+  }
+}
+
+</ul>
+<a href="/vehicles/new">Add a new car.</a>
+
+
